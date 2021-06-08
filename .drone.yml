@@ -22,7 +22,7 @@ steps:
 - name: greeting
   image: python
   commands:
-  - python ./hello.py
+  - python ./greeting.py
 
 - name: date
   image: python
